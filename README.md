@@ -20,11 +20,20 @@ This repository is a reference of the DevOps Training Program of Stack Builders.
 - Creation and configuration of a Systemd service.
 
 ## Linux Troubleshooting
+- Verification steps
+- Useful Commnands
 
 ## Code as Infrastructure
+- What is Ansible
+- Configuration Management
+- Description of Ansible elements
+- Ansible Structure
+- Exercices and examples
 
 ## Continuous Integration & Continuous Delivery
+- Circle CI
+- Exercices and examples
 
 ## DevOps Project
 
-## AWS Access and Management
+
