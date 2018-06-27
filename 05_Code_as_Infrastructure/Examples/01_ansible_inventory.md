@@ -2,7 +2,7 @@
 
 Common file: `../ansible/hosts`
 
-## Example 1 - Server list:
+## Example 1 - Server list
 
 ```
 server1.stackbuilders.net
@@ -10,7 +10,7 @@ server2.stackbuilders.net
 server3.stackbuilders.net
 server4.stackbuilders.net
 ```
-## Example 2 - Set an alias to each server:
+## Example 2 - Set an alias to each server
 
 ```
 web1 ansible_host=server1.stackbuilders.net 
